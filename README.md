@@ -1,1 +1,1 @@
-# curiosityinstitute
+# green-institute-curiosity
